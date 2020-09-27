@@ -18,7 +18,7 @@ Flicks is an app that allows users to browse movies from the [The Movie Database
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/SeIRWjpKl6.gif" width=250><br>
+<img src="http://g.recordit.co/M6aFLbWfeE.gif" width=250><br>
 
 ### Notes
 While I was developing this app, I encountered minor difficulties with XCode, but mainly because of the new update. I actually made a lot of different versions of this app because whenever I pushed to Git and tried to pull, I lost all of my changes and it wasn't until this final app that I realized I never committed. Despite the fact that I had to start over many times, I'm glad I was able to reinforce the knowledge I gained. I'm satisfied with the final result.
